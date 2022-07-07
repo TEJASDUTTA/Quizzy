@@ -1,5 +1,4 @@
 # ANTI-CHEATING QUIZ PLATFORM
-### Faculty Name - Ashutosh Mishra
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
@@ -24,7 +23,6 @@ This project is aimed at building a web-based multiple-choice question examinati
 |    IIT2019157  |  Aviral Gupta| 
 |    IIT2019158  |  Aryan Dhakad|
 |    IIT2019160  |  Tejas Dutta    |
-|    IIT2019200  |   Raj chandra  |
 
 
 
